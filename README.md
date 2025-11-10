@@ -7,8 +7,7 @@
 </div>
 
 <p align="center">
-![Uploading profile2-removebg-preview__1_-removebg-preview.png…]()
-
+    <img width="500" height="500" alt="profile2-removebg-preview__1_-removebg-preview" src="https://github.com/user-attachments/assets/51f0466d-0038-4880-b9ba-aceb8f15b9f5" />
 </p>
 
 <div align="center">
