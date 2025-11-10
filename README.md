@@ -1,102 +1,176 @@
-<h1 align="center">
-  Hi there, I'm Fiha Aridhoi! 👋
-</h1>
+<div align="center">
+
+# 💫 Hi, I'm Fiha Aridhoi!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Game+Development+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
-  <strong>Software Engineering Student @ SMK (Vocational High School)</strong>
-  <br>
-  Saya sangat tertarik membangun solusi perangkat lunak yang efisien dan ramah pengguna untuk web, game, dan lainnya.
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NqM2thcGo2a3R6b3lpNnNtb3l4ajg4c3p2MHo3aHh1eGtyb3hpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0lbe3Qlh6m/giphy.gif" width="400" alt="Coding Animation">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NqM2thcGo2a3R6b3lpNnNtb3l4ajg4c3p2MHo3aHh1eGtyb3hpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0lbe3Qlh6m/giphy.gif" width="300" alt="Coding GIF">
-</p>
+<div align="center">
 
-> Saat ini saya sedang mendalami **Pengembangan Web Modern** (React/Next.js), mengeksplorasi **Pengembangan Game** (Godot/GDScript), dan mengasah keterampilan saya dalam **Desain Perangkat Lunak** & **User Experience**.
+### 🎓 **Vocational High School Student** | 💻 **Passionate Software Engineer**
+
+Membangun solusi perangkat lunak yang **efisien**, **inovatif**, dan **user-friendly** untuk web, mobile, dan game development.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=F1H444&color=blueviolet&style=for-the-badge)](https://github.com/F1H444)
+[![GitHub followers](https://img.shields.io/github/followers/F1H444?style=for-the-badge&color=blue)](https://github.com/F1H444)
+[![GitHub stars](https://img.shields.io/github/stars/F1H444?style=for-the-badge&color=yellow)](https://github.com/F1H444)
+
+</div>
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 **About Me**
 
-Berikut adalah teknologi yang saya gunakan. Saya telah memasukkan pembaruan terbaru Anda (React, Next.js, GSAP, Framer Motion, dan GitLab).
+```javascript
+const fiha = {
+    location: "Surabaya, Indonesia 🇮🇩",
+    education: "SMK - Software Engineering",
+    currentFocus: ["Modern Web Development", "Game Development", "UI/UX Design"],
+    learning: ["React Ecosystem", "Advanced Animations", "System Design"],
+    interests: ["Building Cool Stuff", "Open Source", "Problem Solving"],
+    funFact: "I turn coffee into code ☕ → 💻"
+};
+```
 
-<p align="center">
-  <strong>Languages:</strong>
-  <br>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
-  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></a>
-  <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript"></a>
-  <br><br>
+> 🔭 Currently exploring **React/Next.js** ecosystem & **Game Development** with Godot  
+> 🌱 Always learning and improving my craft  
+> ⚡ Love creating interactive and animated web experiences
+
+---
+
+## 💻 **Tech Stack & Skills**
+
+<div align="center">
+
+### **Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+### **Frontend Development**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Alpine JS](https://img.shields.io/badge/Alpine_JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
+
+### **Backend & Databases**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Tools & Technologies**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black)
+![Laragon](https://img.shields.io/badge/Laragon-0E9B56?style=for-the-badge&logo=laragon&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+
+</div>
+
+---
+
+## 📊 **GitHub Statistics**
+
+<div align="center">
   
-  <strong>Frontend Development:</strong>
-  <br>
-  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Alpine_JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" alt="Alpine JS"></a>
-  <br><br>
-  
-  <strong>Backend & Databases:</strong>
-  <br>
-  <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-  <br><br>
-  
-  <strong>Tools & Platforms:</strong>
-  <br>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" alt="Android Studio"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Laragon-0E9B56?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="Apache NetBeans"></a>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=F1H444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=F1H444&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1H444&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
 
 ---
 
-## 🎯 My Goals
+## 🏆 **GitHub Trophies**
 
-- 🛠️ Membangun proyek-proyek praktis untuk menunjukkan keahlian saya.
-- 💡 Berkontribusi pada proyek *open-source* yang saya anggap menarik.
-- 🌱 Terus memperluas pengetahuan saya di bidang ilmu komputer dan rekayasa perangkat lunak.
+<div align="center">
 
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=F1H444&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/F1H444)
 
-## 🔥 My GitHub Stats
-
-Ini adalah bagian interaktif! Statistik ini diperbarui secara otomatis.
-*(Ganti `F1H444` dengan username GitHub Anda jika berbeda)*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=F1H444&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Fiha Aridhoi's GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1H444&layout=compact&theme=dracula" alt="Fiha Aridhoi's Top Languages">
-</p>
+</div>
 
 ---
 
-## 📬 Let's Connect!
+## 📈 **Contribution Graph**
 
-<p align="center">
-  Jangan ragu untuk menghubungi saya atau melihat karya saya yang lain!
-  <br><br>
-  <a href="[LINK_PORTFOLIO_ANDA]">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:[EMAIL_ANDA]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="[LINK_LINKEDIN_ANDA]">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+<div align="center">
+
+[![Fiha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=F1H444&theme=tokyo-night&hide_border=true)](https://github.com/F1H444)
+
+</div>
+
+---
+
+## 🎯 **Current Goals**
+
+<div align="center">
+
+| Goal | Status |
+|------|--------|
+| 🚀 Master React & Next.js Ecosystem | 🔄 In Progress |
+| 🎮 Build Complete Game with Godot | 🔄 In Progress |
+| 🌟 Contribute to Open Source Projects | 📋 Planned |
+| 📱 Develop Cross-Platform Mobile App | 📋 Planned |
+| 🎨 Master Advanced Web Animations | 🔄 In Progress |
+
+</div>
+
+---
+
+## 💬 **Random Dev Quote**
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📬 **Connect With Me**
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+**💡 Open to collaborations and interesting projects!**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **"Code is like humor. When you have to explain it, it's bad."** 🌟
+
+![Snake animation](https://raw.githubusercontent.com/F1H444/F1H444/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+**⭐ Star my repositories if you find them interesting!**
+
+*Made with ❤️ and lots of ☕ by Fiha Aridhoi*
+
+</div>
