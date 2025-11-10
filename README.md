@@ -164,31 +164,17 @@ const fiha = {
 
 ---
 
-## 🎨 **Featured Projects**
-
-<div align="center">
-
-<a href="https://github.com/F1H444">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=F1H444&repo=repo-name-1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/F1H444">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=F1H444&repo=repo-name-2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🌟 **"Code is like humor. When you have to explain it, it's bad."** 🌟
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontAlignY=65&desc=Feel%20free%20to%20explore%20my%20repositories&descAlignY=85&animation=twinkling" />
 
 **⭐ Star my repositories if you find them interesting!**
 
 *Made with ❤️ and lots of ☕ by Fiha Aridhoi*
 
 ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontAlignY=65&desc=Feel%20free%20to%20explore%20my%20repositories&descAlignY=85&animation=twinkling" />
 
 </div>
