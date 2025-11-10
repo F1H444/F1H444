@@ -7,7 +7,8 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NqM2thcGo2a3R6b3lpNnNtb3l4ajg4c3p2MHo3aHh1eGtyb3hpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0lbe3Qlh6m/giphy.gif" width="400" alt="Coding Animation">
+![Uploading profile2-removebg-preview__1_-removebg-preview.png…]()
+
 </p>
 
 <div align="center">
