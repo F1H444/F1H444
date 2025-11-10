@@ -179,16 +179,6 @@ const fiha = {
 
 ---
 
-## 🐍 **Contribution Snake**
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/F1H444/F1H444/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🌟 **"Code is like humor. When you have to explain it, it's bad."** 🌟
