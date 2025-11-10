@@ -2,7 +2,7 @@
 
 # 💫 Hi, I'm Fiha Aridhoi!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Game+Development+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Game+Development+Enthusiast;Always+Learning+New+Things;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 
 </div>
 
@@ -33,13 +33,21 @@ const fiha = {
     currentFocus: ["Modern Web Development", "Game Development", "UI/UX Design"],
     learning: ["React Ecosystem", "Advanced Animations", "System Design"],
     interests: ["Building Cool Stuff", "Open Source", "Problem Solving"],
-    funFact: "I turn coffee into code ☕ → 💻"
+    funFact: "I turn coffee into code ☕ → 💻",
+    motto: "Learning by doing, growing by sharing"
 };
 ```
 
-> 🔭 Currently exploring **React/Next.js** ecosystem & **Game Development** with Godot  
-> 🌱 Always learning and improving my craft  
-> ⚡ Love creating interactive and animated web experiences
+<div align="center">
+
+```diff
++ 🔭 Currently exploring React/Next.js ecosystem & Game Development with Godot
++ 🌱 Always learning and improving my craft
++ ⚡ Love creating interactive and animated web experiences
++ 🎯 Open to collaborations and interesting projects!
+```
+
+</div>
 
 ---
 
@@ -92,47 +100,55 @@ const fiha = {
 ## 📊 **GitHub Statistics**
 
 <div align="center">
-  
+
+<details open>
+<summary><b>📈 Overview Stats</b></summary>
+<br>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=F1H444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=F1H444&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</details>
 
+<details>
+<summary><b>💻 Most Used Languages</b></summary>
+<br>
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1H444&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</details>
+
+<details>
+<summary><b>📈 Contribution Graph</b></summary>
+<br>
+<a href="https://github.com/F1H444">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=F1H444&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
+</a>
+</details>
 
 </div>
 
 ---
 
-## 🏆 **GitHub Trophies**
+## 🎯 **What I'm Working On**
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=F1H444&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/F1H444)
-
-</div>
-
----
-
-## 📈 **Contribution Graph**
-
-<div align="center">
-
-[![Fiha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=F1H444&theme=tokyo-night&hide_border=true)](https://github.com/F1H444)
-
-</div>
-
----
-
-## 🎯 **Current Goals**
-
-<div align="center">
-
-| Goal | Status |
-|------|--------|
-| 🚀 Master React & Next.js Ecosystem | 🔄 In Progress |
-| 🎮 Build Complete Game with Godot | 🔄 In Progress |
-| 🌟 Contribute to Open Source Projects | 📋 Planned |
-| 📱 Develop Cross-Platform Mobile App | 📋 Planned |
-| 🎨 Master Advanced Web Animations | 🔄 In Progress |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50" height="50" />
+<br><strong>Web Development</strong>
+<br><sub>Building modern web apps with React & Next.js</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="50" height="50" />
+<br><strong>Game Development</strong>
+<br><sub>Creating games with Godot Engine</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paintbrush.png" width="50" height="50" />
+<br><strong>UI/UX Design</strong>
+<br><sub>Designing beautiful user experiences</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -148,14 +164,26 @@ const fiha = {
 
 ---
 
-## 📬 **Connect With Me**
+## 🎨 **Featured Projects**
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<a href="https://github.com/F1H444">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=F1H444&repo=repo-name-1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/F1H444">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=F1H444&repo=repo-name-2&theme=tokyonight&hide_border=true" />
+</a>
 
-**💡 Open to collaborations and interesting projects!**
+</div>
+
+---
+
+## 🐍 **Contribution Snake**
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/F1H444/F1H444/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -165,12 +193,12 @@ const fiha = {
 
 ### 🌟 **"Code is like humor. When you have to explain it, it's bad."** 🌟
 
-![Snake animation](https://raw.githubusercontent.com/F1H444/F1H444/output/github-contribution-grid-snake-dark.svg)
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontAlignY=65&desc=Feel%20free%20to%20explore%20my%20repositories&descAlignY=85&animation=twinkling" />
 
 **⭐ Star my repositories if you find them interesting!**
 
 *Made with ❤️ and lots of ☕ by Fiha Aridhoi*
+
+![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
 
 </div>
