@@ -1,175 +1,87 @@
 <!--
-  Profile README · Fiha Aridhoi · F1H444  (v2 · versi padat)
-  Konsep: satu layar, satu ide. Boot terminal synthwave + ular yang memakan grafik kontribusi.
-  Ular butuh GitHub Actions (lihat snake.yml); sebelum workflow dijalankan, gambarnya kosong.
+  F1H444 · Profile README v3 · "ARCADE SYNTHWAVE"
+  Semua banner, terminal, kartu, bar skill, roadmap, dst. adalah SVG animasi buatan sendiri di folder /assets.
+  Ular butuh GitHub Actions (lihat .github/workflows/snake.yml).
   Palet: #0D0221 gelap · #7B2FF7 ungu · #FF2A6D pink · #05D9E8 cyan · #F9C80E kuning
-  TODO: ganti nama repo di bagian "LEVEL SELECT" dengan repo aslimu.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,40:7B2FF7,75:FF2A6D,100:F9C80E&height=150&section=header&animation=fadeIn" width="100%" alt="" />
-
-```text
-███████╗██╗██╗  ██╗ █████╗ 
-██╔════╝██║██║  ██║██╔══██╗
-█████╗  ██║███████║███████║
-██╔══╝  ██║██╔══██║██╔══██║
-██║     ██║██║  ██║██║  ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=900&color=05D9E8&center=true&vCenter=true&width=800&height=40&lines=INSERT+COIN...;SOFTWARE+ENGINEERING+STUDENT;WEB+%2B+GAME+%2B+UI%2FUX;SHIPPING+REAL+PROJECTS+FOR+REAL+BUSINESSES;LEARNING+BY+DOING%2C+GROWING+BY+SHARING" alt="Fiha Aridhoi" />
+<img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/hero.svg" width="100%" alt="FIHA ARIDHOI · Software Engineering Student · Web + Game + UI/UX" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/PLAYER-FIHA_ARIDHOI-FF2A6D?style=flat-square&labelColor=0D0221" alt="" />
+<a href="https://github.com/F1H444"><img src="https://img.shields.io/badge/PLAYER-FIHA_ARIDHOI-FF2A6D?style=flat-square&labelColor=0D0221" alt="" /></a>
 <img src="https://img.shields.io/badge/CLASS-FULLSTACK_%2B_GAME_DEV-7B2FF7?style=flat-square&labelColor=0D0221" alt="" />
 <img src="https://img.shields.io/badge/BASE-SURABAYA-05D9E8?style=flat-square&labelColor=0D0221" alt="" />
 <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_COLLAB-F9C80E?style=flat-square&labelColor=0D0221" alt="" />
 <img src="https://komarev.com/ghpvc/?username=F1H444&color=7B2FF7&style=flat-square&label=PLAYERS&labelColor=0D0221" alt="" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-## `> boot.sh`
-
-```console
-fiha@surabaya:~$ whoami
-Fiha Aridhoi · software engineering student · founder @ ProgMan
-
-fiha@surabaya:~$ cat now.txt
-> web     React · Next.js · Laravel · Tailwind
-> game    Godot · GDScript (2D, prototyping cepat)
-> design  Figma (wireframe → prototype → handoff)
-> belajar animasi tingkat lanjut, system design, testing
-
-fiha@surabaya:~$ cat skills.log
-Frontend    [██████████████░░░░░░]  70%
-Backend     [███████████░░░░░░░░░]  55%
-Game Dev    [████████████░░░░░░░░]  60%
-UI/UX       [█████████████░░░░░░░]  65%
-System Des. [██████░░░░░░░░░░░░░░]  30%   << sedang di-grind
-
-fiha@surabaya:~$ cat quests.txt
-[x] rilis ProgMan: jasa website & aplikasi untuk bisnis
-[x] bikin game pertama di Godot
-[~] kuasai animasi UI (Framer Motion, GSAP)
-[~] bangun 1 project fullstack end-to-end dengan auth + dashboard
-[ ] kontribusi ke open source
-[ ] ikut game jam
-
-fiha@surabaya:~$ status
-[ OPEN FOR COLLAB ] ▮
-```
-
-<br/>
-
-<div align="center">
-
-## ⚔️ INVENTORY
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,php,html,css&theme=dark" alt="Bahasa" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,vite&theme=dark" alt="Framework" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase&theme=dark" alt="Database" />
-<br/>
-<img src="https://skillicons.dev/icons?i=godot,figma,git,github,vscode,postman,vercel&theme=dark" alt="Tools" />
+<img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/terminal.svg" width="100%" alt="Terminal: whoami, cat now.txt, status" />
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center" width="25%"><b><code>WEB</code></b><br/><sub>landing page · dashboard<br/>company profile · e-commerce</sub></td>
-<td align="center" width="25%"><b><code>GAME</code></b><br/><sub>2D prototype · mekanik inti<br/>game loop · UI in-game</sub></td>
-<td align="center" width="25%"><b><code>DESIGN</code></b><br/><sub>wireframe · design system<br/>prototype interaktif</sub></td>
-<td align="center" width="25%"><b><code>BUSINESS</code></b><br/><sub>jasa digital via ProgMan<br/>dari brief sampai deploy</sub></td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/card.svg" width="100%" alt="Kartu pemain: Fiha Aridhoi, Software Engineering Student, Guild ProgMan, Surabaya" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/hdr-skills.svg" width="100%" alt="SKILL TREE" />
+<img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/skills.svg" width="100%" alt="Frontend 75%, Backend 55%, Game Dev 60%, UI/UX 65%, Animation 40%, System Design 30%" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/hdr-inventory.svg" width="100%" alt="INVENTORY" />
+<img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/marquee.svg" width="100%" alt="React, Next.js, TypeScript, Tailwind, Laravel, PHP, MySQL, Supabase, Vite, Godot, Figma, Git, GitHub, Vercel, Postman, Python, JavaScript" />
 
 <br/>
 
-<a href="https://progman.is-a.dev/">
-  <img src="https://img.shields.io/badge/▶_PROGMAN-jasa_website_%26_aplikasi_untuk_bisnis-FF2A6D?style=for-the-badge&labelColor=0D0221" alt="ProgMan" />
-</a>
+<img src="https://skillicons.dev/icons?i=js,ts,py,php,html,css,react,nextjs,tailwind,laravel,vite&theme=dark" alt="Bahasa dan framework" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,godot,figma,git,github,vscode,postman,vercel&theme=dark" alt="Database dan tools" />
 
 <br/><br/>
 
-## 🐍 SNAKE.EXE
-
-<img src="https://raw.githubusercontent.com/F1H444/F1H444/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Ular memakan grafik kontribusi" />
+<a href="https://progman.is-a.dev/"><img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/progman.svg" width="100%" alt="ProgMan · jasa website dan aplikasi untuk bisnis" /></a>
 
 <br/><br/>
 
-## 📊 HIGH SCORE
+<img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/hdr-snake.svg" width="100%" alt="SNAKE.EXE" />
+<img src="https://raw.githubusercontent.com/F1H444/F1H444/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Ular memakan grafik kontribusi" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=F1H444&show_icons=true&bg_color=0D0221&title_color=FF2A6D&icon_color=F9C80E&text_color=05D9E8&border_color=7B2FF7&border_radius=0&count_private=true&include_all_commits=true" alt="Statistik" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1H444&layout=compact&bg_color=0D0221&title_color=FF2A6D&text_color=05D9E8&border_color=7B2FF7&border_radius=0&hide_border=false" alt="Bahasa teratas" />
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/hdr-score.svg" width="100%" alt="HIGH SCORE" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=F1H444&show_icons=true&bg_color=0D0221&title_color=FF2A6D&icon_color=F9C80E&text_color=05D9E8&border_color=7B2FF7&border_radius=14&count_private=true&include_all_commits=true" alt="Statistik GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1H444&layout=compact&bg_color=0D0221&title_color=FF2A6D&text_color=05D9E8&border_color=7B2FF7&border_radius=14" alt="Bahasa teratas" />
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=F1H444&background=0D0221&border=7B2FF7&ring=FF2A6D&fire=F9C80E&currStreakNum=05D9E8&currStreakLabel=F9C80E&sideNums=05D9E8&sideLabels=FF2A6D&dates=7B2FF7&border_radius=0" alt="Streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=F1H444&background=0D0221&border=7B2FF7&ring=FF2A6D&fire=F9C80E&currStreakNum=05D9E8&currStreakLabel=F9C80E&sideNums=05D9E8&sideLabels=FF2A6D&dates=7B2FF7&border_radius=14" alt="Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=F1H444&bg_color=0D0221&color=05D9E8&line=FF2A6D&point=F9C80E&area=true&area_color=7B2FF7&hide_border=true&radius=0" width="95%" alt="Grafik aktivitas" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=F1H444&bg_color=0D0221&color=05D9E8&line=FF2A6D&point=F9C80E&area=true&area_color=7B2FF7&hide_border=true&radius=14" width="100%" alt="Grafik aktivitas" />
 
 <br/><br/>
 
-## 🏆 ACHIEVEMENTS
-
-<img src="https://github-profile-trophy.vercel.app/?username=F1H444&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trofi" />
-
-<br/><br/>
-
-## 🎮 LEVEL SELECT
-
-</div>
-
-<!-- Ganti nama repo di bawah dengan repo pilihanmu. Kartu otomatis menampilkan deskripsi, bintang, dan bahasa. -->
-
-<div align="center">
-
-<a href="https://github.com/F1H444/NAMA-REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=F1H444&repo=NAMA-REPO-1&bg_color=0D0221&title_color=FF2A6D&text_color=05D9E8&icon_color=F9C80E&border_color=7B2FF7&border_radius=0" alt="Project 1" /></a>
-<a href="https://github.com/F1H444/NAMA-REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=F1H444&repo=NAMA-REPO-2&bg_color=0D0221&title_color=FF2A6D&text_color=05D9E8&icon_color=F9C80E&border_color=7B2FF7&border_radius=0" alt="Project 2" /></a>
-<br/>
-<a href="https://github.com/F1H444/NAMA-REPO-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=F1H444&repo=NAMA-REPO-3&bg_color=0D0221&title_color=FF2A6D&text_color=05D9E8&icon_color=F9C80E&border_color=7B2FF7&border_radius=0" alt="Project 3" /></a>
-<a href="https://github.com/F1H444/NAMA-REPO-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=F1H444&repo=NAMA-REPO-4&bg_color=0D0221&title_color=FF2A6D&text_color=05D9E8&icon_color=F9C80E&border_color=7B2FF7&border_radius=0" alt="Project 4" /></a>
+<img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/hdr-trophies.svg" width="100%" alt="ACHIEVEMENTS" />
+<img src="https://github-profile-trophy.vercel.app/?username=F1H444&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trofi GitHub" />
 
 <br/><br/>
 
-## 🗺️ ROADMAP 2026
+<img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/hdr-quest.svg" width="100%" alt="QUEST LOG" />
+<img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/roadmap.svg" width="100%" alt="Roadmap 2026: 01 ProgMan live, 02 Game Godot, 03 Animasi UI, 04 Fullstack, 05 System Design, 06 Open Source" />
 
-</div>
+<br/><br/>
 
-| Level | Misi | Status |
-| :---: | :--- | :---: |
-| `01` | Rilis & kembangkan **ProgMan**, cari klien pertama sampai berulang | 🟢 jalan |
-| `02` | Selesaikan 1 game Godot sampai bisa dimainkan publik (itch.io) | 🟡 proses |
-| `03` | Kuasai animasi UI tingkat lanjut untuk portofolio | 🟡 proses |
-| `04` | Bangun project fullstack dengan auth, dashboard, dan deploy | 🟡 proses |
-| `05` | Pelajari system design dasar: caching, queue, scaling | 🔴 antre |
-| `06` | Kontribusi pertama ke open source | 🔴 antre |
+<img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/invaders.svg" width="100%" alt="" />
 
 <br/>
 
-<div align="center">
-
-## 💬 PLAYER NOTES
-
-<sub><code>"ship small, ship often, learn loudly."</code></sub>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center"><b>🤝 Terbuka untuk</b><br/><sub>kolaborasi project · game jam<br/>freelance web · diskusi UI/UX</sub></td>
-<td align="center"><b>🎯 Lagi cari</b><br/><sub>teman belajar · mentor<br/>project open source ramah pemula</sub></td>
-<td align="center"><b>⚡ Tanya aku soal</b><br/><sub>React · Next.js · Laravel<br/>Godot · Figma · ProgMan</sub></td>
-</tr>
-</table>
+<a href="https://progman.is-a.dev/"><img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/continue.svg" width="100%" alt="CONTINUE? Kolaborasi, freelance, diskusi UI/UX" /></a>
 
 <br/>
 
@@ -178,6 +90,6 @@ fiha@surabaya:~$ status
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9C80E,30:FF2A6D,65:7B2FF7,100:0D0221&height=110&section=footer&text=THANKS%20FOR%20PLAYING&fontSize=20&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/F1H444/F1H444/main/assets/footer.svg" width="100%" alt="Thanks for playing" />
 
 </div>
