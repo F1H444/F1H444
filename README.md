@@ -1,14 +1,39 @@
-<!--
-  Profile README · Fiha Aridhoi · F1H444  (v2 · versi padat)
-  Konsep: satu layar, satu ide. Boot terminal synthwave + ular yang memakan grafik kontribusi.
-  Ular butuh GitHub Actions (lihat snake.yml); sebelum workflow dijalankan, gambarnya kosong.
-  Palet: #0D0221 gelap · #7B2FF7 ungu · #FF2A6D pink · #05D9E8 cyan · #F9C80E kuning
-  TODO: ganti nama repo di bagian "LEVEL SELECT" dengan repo aslimu.
--->
+[snake.yml](https://github.com/user-attachments/files/35494225/snake.yml)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,40:7B2FF7,75:FF2A6D,100:F9C80E&height=150&section=header&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsul# Simpan sebagai: .github/workflows/snake.yml  (di repo F1H444/F1H444)
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # tiap 12 jam
+  workflow_dispatch:          # bisa dijalankan manual
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+e-render.vercel.app/api?type=waving&color=0:0D0221,40:7B2FF7,75:FF2A6D,100:F9C80E&height=150&section=header&animation=fadeIn" width="100%" alt="" />
 
 ```text
 ███████╗██╗██╗  ██╗ █████╗ 
