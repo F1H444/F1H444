@@ -1,550 +1,371 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  PROFILE README v2  ·  Fiha Aridhoi  ·  github.com/F1H444        ║
-  ║                                                                  ║
-  ║  Tempel sebagai README.md di repositori F1H444/F1H444.           ║
-  ║  Semua animasi memakai layanan gambar eksternal, jadi tidak      ║
-  ║  perlu folder assets. Snake (opsional) butuh GitHub Actions,     ║
-  ║  lihat bagian bertanda "SNAKE" dan file snake.yml.               ║
-  ║                                                                  ║
-  ║  Palet: #0B0B14 gelap · #12122A permukaan · #6366F1 indigo       ║
-  ║         #C7D2FE / #A5B4FC / #818CF8 teks muda                    ║
-  ╚══════════════════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  PROFILE README · RETRO ARCADE EDITION · F1H444              ║
+  ║  Tempel sebagai README.md di repositori F1H444/F1H444.       ║
+  ║  Palet synthwave: #0D0221 gelap · #7B2FF7 ungu · #FF2A6D     ║
+  ║  pink · #05D9E8 cyan · #F9C80E kuning                        ║
+  ╚══════════════════════════════════════════════════════════════╝
 -->
 
 <a id="top"></a>
 
-<!-- ═══════════ 1. HERO ═══════════ -->
-
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B14,40:312E81,100:6366F1&height=280&section=header&text=Fiha%20Aridhoi&fontSize=66&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%7C%20Web%20%7C%20Game%20%7C%20UI%2FUX&descSize=18&descAlignY=58&descColor=C7D2FE"
-  width="100%"
-  alt="Fiha Aridhoi"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:7B2FF7,70:FF2A6D,100:F9C80E&height=170&section=header&animation=fadeIn" width="100%" alt="" />
+
+```text
+███████╗██╗██╗  ██╗ █████╗ 
+██╔════╝██║██║  ██║██╔══██╗
+█████╗  ██║███████║███████║
+██╔══╝  ██║██╔══██║██╔══██║
+██║     ██║██║  ██║██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+   A R I D H O I  ·  F 1 H 4 4 4
+```
 
 <a href="https://github.com/F1H444">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A5B4FC&center=true&vCenter=true&width=760&height=50&lines=Halo%2C+saya+Fiha+%F0%9F%91%8B;Software+Engineering+Student+dari+Surabaya;React+%7C+Next.js+%7C+Laravel+%7C+Godot;Membangun+produk+digital+yang+rapi+dan+cepat;Learning+by+doing%2C+growing+by+sharing;Let%27s+build+something+amazing+%F0%9F%9A%80"
-    alt="Teks animasi perkenalan"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3200&pause=900&color=05D9E8&center=true&vCenter=true&width=860&height=50&lines=INSERT+COIN+TO+CONTINUE...;PLAYER+1+READY!;SOFTWARE+ENGINEERING+STUDENT;WEB+%2B+GAME+%2B+UI%2FUX;LEARNING+BY+DOING%2C+GROWING+BY+SHARING;PRESS+START" alt="Teks arcade animasi" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_FOR_COLLAB-6366F1?style=for-the-badge&labelColor=0B0B14&logo=statuspage&logoColor=A5B4FC" alt="Status" />
-<img src="https://img.shields.io/github/followers/F1H444?label=FOLLOWERS&style=for-the-badge&color=6366F1&labelColor=0B0B14" alt="Followers" />
-<img src="https://img.shields.io/github/stars/F1H444?label=STARS&style=for-the-badge&color=6366F1&labelColor=0B0B14" alt="Stars" />
-<img src="https://komarev.com/ghpvc/?username=F1H444&label=PROFILE+VIEWS&style=for-the-badge&color=312E81&labelColor=0B0B14" alt="Profile views" />
+<img src="https://img.shields.io/badge/1UP-F1H444-FF2A6D?style=for-the-badge&labelColor=0D0221" alt="1UP" />
+<img src="https://img.shields.io/badge/STATUS-OPEN_FOR_COLLAB-05D9E8?style=for-the-badge&labelColor=0D0221" alt="Status" />
+<img src="https://img.shields.io/github/followers/F1H444?label=FANS&style=for-the-badge&color=F9C80E&labelColor=0D0221" alt="Followers" />
+<img src="https://img.shields.io/github/stars/F1H444?label=STARS&style=for-the-badge&color=7B2FF7&labelColor=0D0221" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=F1H444&label=CREDITS+PLAYED&style=for-the-badge&color=FF2A6D&labelColor=0D0221" alt="Views" />
 
 <br/><br/>
 
-<!-- Navigasi -->
-<a href="#tentang"><img src="https://img.shields.io/badge/Tentang-12122A?style=flat-square&labelColor=12122A&color=312E81" alt="Tentang" /></a>
-<a href="#console"><img src="https://img.shields.io/badge/Console-12122A?style=flat-square&labelColor=12122A&color=312E81" alt="Console" /></a>
-<a href="#filosofi"><img src="https://img.shields.io/badge/Filosofi-12122A?style=flat-square&labelColor=12122A&color=312E81" alt="Filosofi" /></a>
-<a href="#fokus"><img src="https://img.shields.io/badge/Fokus-12122A?style=flat-square&labelColor=12122A&color=312E81" alt="Fokus" /></a>
-<a href="#stack"><img src="https://img.shields.io/badge/Tech_Stack-12122A?style=flat-square&labelColor=12122A&color=312E81" alt="Tech Stack" /></a>
-<a href="#peta"><img src="https://img.shields.io/badge/Peta_Belajar-12122A?style=flat-square&labelColor=12122A&color=312E81" alt="Peta Belajar" /></a>
-<a href="#progman"><img src="https://img.shields.io/badge/ProgMan-12122A?style=flat-square&labelColor=12122A&color=312E81" alt="ProgMan" /></a>
-<a href="#alur"><img src="https://img.shields.io/badge/Alur_Kerja-12122A?style=flat-square&labelColor=12122A&color=312E81" alt="Alur Kerja" /></a>
-<a href="#statistik"><img src="https://img.shields.io/badge/Statistik-12122A?style=flat-square&labelColor=12122A&color=312E81" alt="Statistik" /></a>
-<a href="#faq"><img src="https://img.shields.io/badge/FAQ-12122A?style=flat-square&labelColor=12122A&color=312E81" alt="FAQ" /></a>
-<a href="#kontak"><img src="https://img.shields.io/badge/Kontak-12122A?style=flat-square&labelColor=12122A&color=312E81" alt="Kontak" /></a>
+<!-- MENU UTAMA -->
+<a href="#player"><img src="https://img.shields.io/badge/▶_PLAYER-FF2A6D?style=for-the-badge&labelColor=0D0221" alt="Player" /></a>
+<a href="#stage"><img src="https://img.shields.io/badge/▶_STAGE-05D9E8?style=for-the-badge&labelColor=0D0221" alt="Stage" /></a>
+<a href="#powerup"><img src="https://img.shields.io/badge/▶_POWER--UP-F9C80E?style=for-the-badge&labelColor=0D0221" alt="Power-up" /></a>
+<a href="#inventory"><img src="https://img.shields.io/badge/▶_INVENTORY-7B2FF7?style=for-the-badge&labelColor=0D0221" alt="Inventory" /></a>
+<a href="#quest"><img src="https://img.shields.io/badge/▶_QUEST-FF2A6D?style=for-the-badge&labelColor=0D0221" alt="Quest" /></a>
+<a href="#shop"><img src="https://img.shields.io/badge/▶_SHOP-05D9E8?style=for-the-badge&labelColor=0D0221" alt="Shop" /></a>
+<a href="#loop"><img src="https://img.shields.io/badge/▶_GAME_LOOP-F9C80E?style=for-the-badge&labelColor=0D0221" alt="Game loop" /></a>
+<a href="#score"><img src="https://img.shields.io/badge/▶_HI--SCORE-7B2FF7?style=for-the-badge&labelColor=0D0221" alt="Hi-score" /></a>
+<a href="#cheat"><img src="https://img.shields.io/badge/▶_CHEAT_CODES-FF2A6D?style=for-the-badge&labelColor=0D0221" alt="Cheat codes" /></a>
+<a href="#continue"><img src="https://img.shields.io/badge/▶_CONTINUE%3F-05D9E8?style=for-the-badge&labelColor=0D0221" alt="Continue" /></a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════ 2. TENTANG ═══════════ -->
+<!-- ═══════════ PLAYER SELECT ═══════════ -->
 
-<a id="tentang"></a>
+<a id="player"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B14,50:6366F1,100:0B0B14&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:7B2FF7,100:05D9E8&height=4&section=header" width="100%" alt="" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="" /> Tentang Saya
+## 🕹️ PLAYER SELECT
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="55%" valign="top">
 
-Halo, saya **Fiha Aridhoi**. Saya mahasiswa yang sedang mendalami **software engineering** dan tinggal di **Surabaya, Indonesia**.
-
-Hal yang paling saya nikmati adalah mengubah ide menjadi sesuatu yang benar-benar bisa dipakai orang: website yang cepat dibuka, aplikasi yang tidak membingungkan, atau game kecil yang asyik dimainkan.
-
-Saya percaya perangkat lunak yang baik punya tiga ciri:
-
-- ⚡ **Efisien**: hemat sumber daya dan waktu
-- 💡 **Inovatif**: tidak sekadar meniru
-- 🤝 **User-friendly**: orang awam pun langsung paham
+```text
+╔══════════════════════════════════════╗
+║        ** CHARACTER SHEET **         ║
+╠══════════════════════════════════════╣
+║ PLAYER 1 : FIHA ARIDHOI              ║
+║ CLASS    : SOFTWARE ENGINEER         ║
+║ BASE     : SURABAYA, ID              ║
+║ GUILD    : F1H444                    ║
+║ WEAPONS  : REACT/LARAVEL/GODOT       ║
+║ FUEL     : COFFEE                    ║
+║ STATUS   : OPEN FOR COLLAB           ║
+╚══════════════════════════════════════╝
+```
 
 </td>
-<td width="38%" valign="middle" align="center">
+<td width="45%" valign="middle" align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2600&pause=700&color=818CF8&vCenter=true&width=300&height=150&lines=%3E+currently+exploring+Next.js;%3E+building+games+with+Godot;%3E+crafting+smooth+animations;%3E+learning+system+design;%3E+designing+in+Figma;%3E+open+for+collaboration"
-  alt="Status saat ini"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2600&pause=700&color=F9C80E&vCenter=true&width=360&height=170&lines=%3E+EXPLORING+NEXT.JS;%3E+BUILDING+GODOT+GAMES;%3E+CRAFTING+ANIMATIONS;%3E+LEARNING+SYSTEM+DESIGN;%3E+DESIGNING+IN+FIGMA;%3E+READY+FOR+COLLAB" alt="Misi saat ini" />
 
 </td>
 </tr>
 </table>
 
-```ts
-const fiha = {
-  name:     "Fiha Aridhoi",
-  username: "F1H444",
-  location: "Surabaya, Indonesia",
-  role:     "Software Engineering Student",
+Halo, saya **Fiha Aridhoi**, mahasiswa **software engineering** dari **Surabaya, Indonesia**. Saya paling senang mengubah ide menjadi sesuatu yang benar-benar bisa dipakai: website yang cepat dibuka, aplikasi yang tidak membingungkan, atau game kecil yang asyik dimainkan.
 
-  focus:     ["Modern Web Development", "Game Development", "UI/UX Design"],
-  learning:  ["React Ecosystem", "Advanced Animations", "System Design"],
-  interests: ["Building Cool Stuff", "Open Source", "Problem Solving"],
+Tiga atribut yang saya kejar di setiap proyek: ⚡ **efisien**, 💡 **inovatif**, dan 🤝 **user-friendly**.
 
-  motto: "Learning by doing, growing by sharing",
-  fuel:  "coffee -> code",
-
-  openToCollaboration: true,
-} as const;
-```
-
-<div align="right"><a href="#top">⬆ kembali ke atas</a></div>
-
-<!-- ═══════════ 3. CONSOLE INTERAKTIF ═══════════ -->
-
-<a id="console"></a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B14,50:6366F1,100:0B0B14&height=2&section=header" width="100%" alt="" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="32" alt="" /> Console Interaktif
-
-Klik perintah di bawah untuk "menjalankannya".
-
-<details>
-<summary><code>$ ./whoami.sh</code></summary>
-
-<br/>
+**ENERGI FOKUS** *(ilustratif, tergantung proyek yang sedang jalan)*
 
 ```text
-> Fiha Aridhoi (F1H444)
-> Software Engineering Student · Surabaya, ID
-> Suka: web modern, game 2D, animasi halus, antarmuka yang rapi
-> Bahan bakar: kopi
+WEB     [████████░░]  80%
+GAME    [██████░░░░]  60%
+UI/UX   [███████░░░]  70%
+BELAJAR [█████████░]  90%
 ```
 
-</details>
+<div align="right"><a href="#top">▲ BACK TO TITLE</a></div>
 
-<details>
-<summary><code>$ ./now.sh</code></summary>
+<!-- ═══════════ STAGE SELECT ═══════════ -->
 
-<br/>
+<a id="stage"></a>
 
-| Sedang | Detail |
-| :--- | :--- |
-| 🧪 Mengeksplorasi | Next.js dan ekosistem React |
-| 🎮 Membangun | Game 2D dengan Godot Engine |
-| 🎞️ Melatih | Animasi scroll, timeline, dan transisi halaman |
-| 🧠 Mempelajari | System design: aliran data dan arsitektur aplikasi |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:7B2FF7,100:05D9E8&height=4&section=header" width="100%" alt="" />
 
-</details>
-
-<details>
-<summary><code>$ ./ask-me-about.sh</code></summary>
-
-<br/>
-
-- React, Next.js, Tailwind CSS
-- Laravel dan MySQL
-- Godot dan GDScript
-- Figma dan sistem desain
-- Framer Motion dan GSAP
-- Git, GitHub, dan alur kolaborasi
-
-</details>
-
-<details>
-<summary><code>$ ./habits.sh</code></summary>
-
-<br/>
-
-```text
-- mengubah kopi menjadi kode
-- menambah fitur "sekali lagi" lalu lupa waktu
-- merapikan antarmuka sampai jarak antar elemen pas
-- mencoba tools baru tiap ada kesempatan
-```
-
-</details>
-
-<details>
-<summary><code>$ ./contact.sh</code></summary>
-
-<br/>
-
-```text
-GitHub  : github.com/F1H444
-ProgMan : progman.is-a.dev
-```
-
-</details>
-
-<div align="right"><a href="#top">⬆ kembali ke atas</a></div>
-
-<!-- ═══════════ 4. FILOSOFI ═══════════ -->
-
-<a id="filosofi"></a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B14,50:6366F1,100:0B0B14&height=2&section=header" width="100%" alt="" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="32" alt="" /> Filosofi Kerja
-
-<table>
-<tr>
-<td width="8%" align="center"><h3>01</h3></td>
-<td width="92%">
-
-**Mulai dari masalah, bukan dari teknologi.**
-Siapa penggunanya, dan masalah apa yang ingin diselesaikan? Teknologi hanyalah alat. Pilihan yang tepat muncul setelah masalahnya jelas.
-
-</td>
-</tr>
-<tr>
-<td align="center"><h3>02</h3></td>
-<td>
-
-**Sederhana itu elegan.**
-Kode yang mudah dibaca lebih berharga daripada kode yang terlihat pintar. Kalau sesuatu bisa disederhanakan tanpa kehilangan fungsi, saya sederhanakan.
-
-</td>
-</tr>
-<tr>
-<td align="center"><h3>03</h3></td>
-<td>
-
-**Animasi harus punya tujuan.**
-Gerakan yang baik membantu pengguna memahami apa yang terjadi. Animasi yang hanya menghias dan mengganggu akan saya buang.
-
-</td>
-</tr>
-<tr>
-<td align="center"><h3>04</h3></td>
-<td>
-
-**Belajar sambil membangun.**
-Cara tercepat memahami konsep adalah memakainya di proyek nyata. Lebih baik membuat yang kecil dan jalan daripada teori tanpa praktik.
-
-</td>
-</tr>
-<tr>
-<td align="center"><h3>05</h3></td>
-<td>
-
-**Bagikan apa yang dipelajari.**
-Ilmu yang dibagikan akan tumbuh. Karena itu saya suka open source: membaca, memperbaiki, dan membuka hasil kerja agar bisa dipelajari orang lain.
-
-</td>
-</tr>
-</table>
-
-<div align="right"><a href="#top">⬆ kembali ke atas</a></div>
-
-<!-- ═══════════ 5. FOKUS ═══════════ -->
-
-<a id="fokus"></a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B14,50:6366F1,100:0B0B14&height=2&section=header" width="100%" alt="" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" alt="" /> Fokus Saat Ini
+## 🌆 STAGE SELECT
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="64" alt="Web" />
-<br/><br/>
-<b>Web Development</b>
-<br/>
-<sub>React dan Next.js untuk antarmuka modern, cepat, dan responsif di semua ukuran layar.</sub>
+
+### 🖥️
+**STAGE 1-1**
+**WEB DEVELOPMENT**
+
+<sub>React dan Next.js untuk antarmuka modern, cepat, dan responsif di semua layar.</sub>
+
 </td>
 <td align="center" width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="64" alt="Game" />
-<br/><br/>
-<b>Game Development</b>
-<br/>
-<sub>Godot Engine dan GDScript untuk game 2D yang ringan dengan gameplay yang enak.</sub>
+
+### 👾
+**STAGE 1-2**
+**GAME DEVELOPMENT**
+
+<sub>Godot dan GDScript untuk game 2D yang ringan dengan gameplay yang enak.</sub>
+
 </td>
 <td align="center" width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="64" alt="Design" />
-<br/><br/>
-<b>UI/UX Design</b>
-<br/>
+
+### 🎨
+**STAGE 1-3**
+**UI/UX DESIGN**
+
 <sub>Figma untuk merancang alur dan tampilan sebelum satu baris kode ditulis.</sub>
+
 </td>
 </tr>
 </table>
 </div>
 
-<br/>
-
 <details>
-<summary><b>▸ Baca penjelasan tiap fokus</b></summary>
+<summary><b>▶ BACA BRIEFING TIAP STAGE</b></summary>
 
 <br/>
 
-### Web Development
+**Web.** Frontend dengan React, Next.js, dan Tailwind CSS. Backend dengan Laravel dan MySQL untuk logika bisnis, autentikasi, dan data. Yang selalu dijaga: cepat dimuat, konsisten di ponsel dan desktop, kode mudah dilanjutkan siapa pun.
 
-Di **frontend**, saya membangun antarmuka berbasis komponen dengan React dan Next.js, ditata dengan Tailwind CSS. Di **backend**, saya memakai Laravel dan MySQL untuk logika bisnis, autentikasi, dan penyimpanan data. Yang saya jaga selalu sama: halaman cepat dimuat, tampilan konsisten di ponsel dan desktop, dan struktur kode mudah dilanjutkan siapa pun.
+**Game.** Tempat bereksperimen paling bebas: bagaimana karakter bergerak, bagaimana level terasa, bagaimana umpan balik visual membuat aksi pemain memuaskan. GDScript mirip Python, jadi iterasi cepat.
 
-### Game Development
-
-Game adalah tempat saya bereksperimen paling bebas. Godot membuat saya fokus pada ide: bagaimana karakter bergerak, bagaimana level terasa, dan bagaimana umpan balik visual membuat aksi pemain memuaskan. GDScript mirip Python, jadi iterasi cepat.
-
-### UI/UX Design
-
-Saya merancang di Figma: alur pengguna, kerangka halaman, sampai sistem warna dan tipografi. Setelah desain disepakati, implementasi di kode terasa jauh lebih terarah.
+**Design.** Alur pengguna, kerangka halaman, warna, dan tipografi di Figma. Setelah desain disepakati, implementasi jauh lebih terarah.
 
 </details>
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#312E81','primaryTextColor':'#E0E7FF','primaryBorderColor':'#6366F1','lineColor':'#818CF8','secondaryColor':'#12122A','tertiaryColor':'#0B0B14','fontFamily':'monospace'}}}%%
-mindmap
-  root((Fiha))
-    Web
-      React
-      Next.js
-      Tailwind
-      Laravel
-      MySQL
-    Game
-      Godot
-      GDScript
-      Gameplay feel
-    Design
-      Figma
-      Design system
-      Motion
-    Tools
-      Git
-      GitHub
-      VS Code
-      Postman
-```
+<div align="right"><a href="#top">▲ BACK TO TITLE</a></div>
 
-<div align="right"><a href="#top">⬆ kembali ke atas</a></div>
+<!-- ═══════════ POWER-UPS ═══════════ -->
 
-<!-- ═══════════ 6. TECH STACK ═══════════ -->
+<a id="powerup"></a>
 
-<a id="stack"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:7B2FF7,100:05D9E8&height=4&section=header" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B14,50:6366F1,100:0B0B14&height=2&section=header" width="100%" alt="" />
+## 🍄 5 POWER-UP FILOSOFI
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="32" alt="" /> Tech Stack
+| | Power-up | Efeknya |
+| :---: | :--- | :--- |
+| 🍄 | **Mulai dari masalah** | Tanya dulu siapa penggunanya dan apa masalahnya. Teknologi hanyalah alat. |
+| ⭐ | **Sederhana itu elegan** | Kode mudah dibaca mengalahkan kode yang terlihat pintar. |
+| 🔥 | **Animasi punya tujuan** | Gerakan harus membantu pengguna paham, bukan sekadar menghias. |
+| 🪙 | **Belajar sambil membangun** | Konsep paling melekat saat dipakai di proyek nyata. |
+| 💎 | **Bagikan ilmunya** | Open source: membaca, memperbaiki, dan membuka hasil kerja. |
+
+<div align="right"><a href="#top">▲ BACK TO TITLE</a></div>
+
+<!-- ═══════════ INVENTORY ═══════════ -->
+
+<a id="inventory"></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:7B2FF7,100:05D9E8&height=4&section=header" width="100%" alt="" />
+
+## 🎒 INVENTORY (TECH STACK)
 
 <div align="center">
 
-**Bahasa Pemrograman**
+**⚔️ SENJATA UTAMA (BAHASA)**
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,php,cpp,c&theme=dark" alt="Bahasa pemrograman" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,php,cpp,c&theme=dark" alt="Bahasa" />
 
 <br/><br/>
 
-**Frontend**
+**🛡️ PERISAI (FRONTEND)**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,alpinejs,figma&theme=dark" alt="Frontend" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Framer_Motion-0B0B14?style=for-the-badge&logo=framer&logoColor=A5B4FC" alt="Framer Motion" />
-<img src="https://img.shields.io/badge/GSAP-0B0B14?style=for-the-badge&logo=greensock&logoColor=A5B4FC" alt="GSAP" />
+<img src="https://img.shields.io/badge/Framer_Motion-0D0221?style=for-the-badge&logo=framer&logoColor=05D9E8" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/GSAP-0D0221?style=for-the-badge&logo=greensock&logoColor=FF2A6D" alt="GSAP" />
 
 <br/><br/>
 
-**Backend dan Database**
+**🧪 RAMUAN (BACKEND & DATABASE)**
 
-<img src="https://skillicons.dev/icons?i=laravel,mysql,postman&theme=dark" alt="Backend dan database" />
+<img src="https://skillicons.dev/icons?i=laravel,mysql,postman&theme=dark" alt="Backend" />
 
 <br/><br/>
 
-**Game dan Tools**
+**🧰 PERALATAN (GAME & TOOLS)**
 
-<img src="https://skillicons.dev/icons?i=godot,git,github,gitlab,vscode,androidstudio&theme=dark" alt="Game dan tools" />
+<img src="https://skillicons.dev/icons?i=godot,git,github,gitlab,vscode,androidstudio&theme=dark" alt="Tools" />
 
 </div>
 
 <br/>
 
 <details open>
-<summary><b>▾ Bahasa</b></summary>
+<summary><b>▶ ⚔️ BAHASA</b></summary>
 
 <br/>
 
-| Bahasa | Saya memakainya untuk |
+| Item | Dipakai untuk |
 | :--- | :--- |
-| **JavaScript** | Logika interaktif di browser dan dasar seluruh ekosistem frontend |
-| **TypeScript** | Menambah tipe agar kesalahan ketahuan sebelum aplikasi berjalan |
-| **Python** | Skrip otomasi, olah data, dan eksperimen cepat |
-| **PHP** | Backend web, terutama bersama Laravel |
-| **C++** | Memahami cara kerja program lebih dekat ke mesin dan struktur data |
-| **C** | Dasar pemrograman, pointer, dan manajemen memori |
-| **GDScript** | Logika game di Godot Engine |
+| **JavaScript** | Logika interaktif di browser dan dasar ekosistem frontend |
+| **TypeScript** | Tipe agar kesalahan ketahuan sebelum aplikasi jalan |
+| **Python** | Skrip otomasi, olah data, eksperimen cepat |
+| **PHP** | Backend web bersama Laravel |
+| **C++** | Memahami program lebih dekat ke mesin dan struktur data |
+| **C** | Pointer dan manajemen memori |
+| **GDScript** | Logika game di Godot |
 
 </details>
 
 <details>
-<summary><b>▸ Frontend</b></summary>
+<summary><b>▶ 🛡️ FRONTEND</b></summary>
 
 <br/>
 
-| Teknologi | Saya memakainya untuk |
+| Item | Dipakai untuk |
 | :--- | :--- |
 | **React** | UI dari komponen yang bisa dipakai ulang |
-| **Next.js** | Routing, rendering di server, dan optimasi performa |
-| **Tailwind CSS** | Menata tampilan dengan cepat dan konsisten |
+| **Next.js** | Routing, rendering server, optimasi performa |
+| **Tailwind CSS** | Menata tampilan cepat dan konsisten |
 | **Bootstrap** | Prototipe cepat dengan komponen siap pakai |
 | **Alpine.js** | Interaksi ringan tanpa framework besar |
 | **Framer Motion** | Animasi halus dan deklaratif di React |
 | **GSAP** | Animasi kompleks dengan kontrol timeline presisi |
-| **Figma** | Desain antarmuka, wireframe, dan sistem desain |
+| **Figma** | Wireframe, antarmuka, dan sistem desain |
 
 </details>
 
 <details>
-<summary><b>▸ Backend dan Database</b></summary>
+<summary><b>▶ 🧪 BACKEND & DATABASE</b></summary>
 
 <br/>
 
-| Teknologi | Saya memakainya untuk |
+| Item | Dipakai untuk |
 | :--- | :--- |
-| **Laravel** | Routing, autentikasi, ORM, dan struktur proyek yang terarah |
-| **MySQL** | Database relasional untuk menyimpan dan menghubungkan data |
-| **Postman** | Menguji dan mendokumentasikan endpoint API |
+| **Laravel** | Routing, autentikasi, ORM, struktur proyek |
+| **MySQL** | Database relasional |
+| **Postman** | Uji dan dokumentasi endpoint API |
 
 </details>
 
 <details>
-<summary><b>▸ Game dan Tools</b></summary>
+<summary><b>▶ 🧰 GAME & TOOLS</b></summary>
 
 <br/>
 
-| Alat | Saya memakainya untuk |
+| Item | Dipakai untuk |
 | :--- | :--- |
 | **Godot Engine** | Game 2D dan 3D yang ringan dan open source |
-| **Git** | Riwayat perubahan dan kerja di banyak cabang |
-| **GitHub** | Repositori, kolaborasi, dan berbagi proyek |
-| **GitLab** | Alternatif hosting repositori dan pipeline CI |
-| **VS Code** | Editor utama untuk hampir semua bahasa di atas |
+| **Git / GitHub / GitLab** | Riwayat perubahan, kolaborasi, hosting repositori |
+| **VS Code** | Editor utama |
 | **Android Studio** | Mengembangkan dan menguji aplikasi Android |
 
 </details>
 
-<div align="right"><a href="#top">⬆ kembali ke atas</a></div>
+<div align="right"><a href="#top">▲ BACK TO TITLE</a></div>
 
-<!-- ═══════════ 7. PETA BELAJAR ═══════════ -->
+<!-- ═══════════ QUEST LOG ═══════════ -->
 
-<a id="peta"></a>
+<a id="quest"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B14,50:6366F1,100:0B0B14&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:7B2FF7,100:05D9E8&height=4&section=header" width="100%" alt="" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="32" alt="" /> Sedang Dipelajari dan Peta Belajar
+## 📜 QUEST LOG
 
-<table>
-<tr>
-<td width="33%" valign="top">
+```text
+[▶] QUEST 1 : REACT ECOSYSTEM
+    state, pola komponen, server components,
+    data fetching, pengujian komponen
+    HADIAH  : bisa merancang aplikasi React skala menengah
 
-#### React Ecosystem
+[▶] QUEST 2 : ADVANCED ANIMATIONS
+    timeline, easing, scroll-triggered, transisi halaman
+    HADIAH  : animasi natural yang tidak membebani performa
 
-Manajemen state, pola komponen, server components, data fetching, dan pengujian komponen.
-
-**Tujuan:** merancang aplikasi React skala menengah dengan struktur bersih.
-
-</td>
-<td width="33%" valign="top">
-
-#### Advanced Animations
-
-Timeline, easing, scroll-triggered animation, dan transisi antarhalaman yang tetap lancar di perangkat biasa.
-
-**Tujuan:** animasi natural yang tidak membebani performa.
-
-</td>
-<td width="33%" valign="top">
-
-#### System Design
-
-Memikirkan aplikasi sebagai sistem: aliran data, pemisahan komponen, dan apa yang terjadi saat pengguna bertambah.
-
-**Tujuan:** keputusan arsitektur yang bisa dipertanggungjawabkan.
-
-</td>
-</tr>
-</table>
+[▶] QUEST 3 : SYSTEM DESIGN
+    aliran data, pemisahan komponen, skala pengguna
+    HADIAH  : keputusan arsitektur yang bisa dipertanggungjawabkan
+```
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#312E81','primaryTextColor':'#E0E7FF','primaryBorderColor':'#6366F1','lineColor':'#818CF8','secondaryColor':'#12122A','tertiaryColor':'#0B0B14','fontFamily':'monospace'}}}%%
-timeline
-    title Peta Jalan Belajar
-    Fondasi : HTML, CSS, JavaScript : Git dan GitHub
-    Frontend : React : Tailwind CSS : Figma
-    Backend : PHP dan Laravel : MySQL : REST API
-    Interaksi : Framer Motion : GSAP : Godot
-    Arsitektur : Next.js : System design : Performa
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#2B0B4F','primaryTextColor':'#05D9E8','primaryBorderColor':'#FF2A6D','lineColor':'#F9C80E','secondaryColor':'#0D0221','tertiaryColor':'#0D0221','fontFamily':'monospace'}}}%%
+flowchart LR
+    W1([WORLD 1<br/>FONDASI<br/>HTML CSS JS Git]) --> W2([WORLD 2<br/>FRONTEND<br/>React Tailwind Figma])
+    W2 --> W3([WORLD 3<br/>BACKEND<br/>Laravel MySQL API])
+    W3 --> W4([WORLD 4<br/>INTERAKSI<br/>Framer GSAP Godot])
+    W4 --> BOSS{{FINAL BOSS<br/>Next.js + System Design}}
 ```
 
 <details>
-<summary><b>▸ Cara saya belajar</b></summary>
+<summary><b>▶ CARA SAYA LEVEL UP</b></summary>
 
 <br/>
 
 1. **Pilih satu konsep kecil.** Misalnya hanya scroll animation, bukan seluruh GSAP.
 2. **Buat contoh minimal yang jalan.** Satu halaman, satu efek.
 3. **Rusak dengan sengaja.** Ubah parameter, hapus bagian, lihat apa yang pecah.
-4. **Pakai di proyek nyata.** Konsep terasa dipahami kalau sudah menyelesaikan masalah sungguhan.
-5. **Tulis ulang dengan kata sendiri.** Kalau bisa menjelaskannya sederhana, berarti sudah paham.
+4. **Pakai di proyek nyata.** Konsep terasa dipahami setelah menyelesaikan masalah sungguhan.
+5. **Tulis ulang dengan kata sendiri.** Kalau bisa dijelaskan sederhana, berarti sudah paham.
 
 </details>
 
-<div align="right"><a href="#top">⬆ kembali ke atas</a></div>
+<div align="right"><a href="#top">▲ BACK TO TITLE</a></div>
 
-<!-- ═══════════ 8. PROGMAN ═══════════ -->
+<!-- ═══════════ SHOP ═══════════ -->
 
-<a id="progman"></a>
+<a id="shop"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B14,50:6366F1,100:0B0B14&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:7B2FF7,100:05D9E8&height=4&section=header" width="100%" alt="" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" alt="" /> ProgMan: Jasa Website dan Aplikasi
+## 🏪 ARCADE SHOP: PROGMAN
 
 Selain belajar dan bereksperimen, saya menawarkan jasa pembuatan **website dan aplikasi untuk bisnis** lewat **ProgMan**.
 
 <div align="center">
 
 <a href="https://progman.is-a.dev/">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=C7D2FE&center=true&vCenter=true&width=620&height=40&lines=Landing+page+yang+mengubah+pengunjung+jadi+pelanggan;Company+profile+yang+tampil+profesional;Web+app+dengan+login+dan+dashboard;Aplikasi+mobile+yang+nyaman+dipakai"
-    alt="Layanan ProgMan"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2800&pause=900&color=F9C80E&center=true&vCenter=true&width=860&height=40&lines=LANDING+PAGE+YANG+MENGUBAH+PENGUNJUNG+JADI+PELANGGAN;COMPANY+PROFILE+YANG+TAMPIL+PROFESIONAL;WEB+APP+DENGAN+LOGIN+DAN+DASHBOARD;APLIKASI+MOBILE+YANG+NYAMAN+DIPAKAI" alt="Layanan ProgMan" />
 </a>
 
 <br/>
 
 <a href="https://progman.is-a.dev/">
-  <img src="https://img.shields.io/badge/KUNJUNGI_PROGMAN-progman.is--a.dev-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B0B14" alt="Kunjungi ProgMan" />
+  <img src="https://img.shields.io/badge/▶_PRESS_START-progman.is--a.dev-FF2A6D?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D0221" alt="Kunjungi ProgMan" />
 </a>
 
 </div>
 
 <br/>
 
-| Layanan | Cocok untuk | Hasil yang didapat |
+| Item | Cocok untuk | Hasil |
 | :--- | :--- | :--- |
 | 🎯 **Landing page** | Promosi produk atau acara | Satu halaman yang fokus pada konversi |
-| 🏢 **Company profile** | Usaha yang ingin tampil profesional | Situs yang menjelaskan siapa Anda, layanan, dan kontak |
-| 🧩 **Web app** | Bisnis dengan proses yang ingin dirapikan | Aplikasi web dengan login, dashboard, dan pengelolaan data |
-| 📱 **Aplikasi mobile** | Layanan yang dekat dengan pengguna harian | Aplikasi yang nyaman di ponsel |
-| ✨ **Perbaikan tampilan** | Situs lama yang kuno atau lambat | Antarmuka segar, lebih cepat, lebih mudah dipakai |
+| 🏢 **Company profile** | Usaha yang ingin tampil profesional | Siapa Anda, layanan, dan kontak dalam satu situs |
+| 🧩 **Web app** | Bisnis yang ingin merapikan proses | Login, dashboard, dan pengelolaan data |
+| 📱 **Aplikasi mobile** | Layanan dekat dengan pengguna harian | Aplikasi nyaman di ponsel |
+| ✨ **Perbaikan tampilan** | Situs lama yang kuno atau lambat | Antarmuka segar, cepat, mudah dipakai |
 
 <details>
-<summary><b>▸ Kenapa memilih ProgMan</b></summary>
+<summary><b>▶ KENAPA PROGMAN</b></summary>
 
 <br/>
 
@@ -556,215 +377,181 @@ Selain belajar dan bereksperimen, saya menawarkan jasa pembuatan **website dan a
 
 </details>
 
-<details>
-<summary><b>▸ Alur memesan</b></summary>
+<div align="right"><a href="#top">▲ BACK TO TITLE</a></div>
 
-<br/>
+<!-- ═══════════ GAME LOOP ═══════════ -->
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#312E81','primaryTextColor':'#E0E7FF','primaryBorderColor':'#6366F1','lineColor':'#818CF8','fontFamily':'monospace'}}}%%
-flowchart LR
-    A([Konsultasi<br/>kebutuhan]) --> B[Penawaran &<br/>estimasi waktu]
-    B --> C[Desain<br/>disetujui]
-    C --> D[Pengembangan<br/>& update berkala]
-    D --> E[Uji &<br/>revisi]
-    E --> F([Peluncuran])
-```
+<a id="loop"></a>
 
-Detail lengkap dan cara menghubungi ada di [situs ProgMan](https://progman.is-a.dev/).
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:7B2FF7,100:05D9E8&height=4&section=header" width="100%" alt="" />
 
-</details>
-
-<div align="right"><a href="#top">⬆ kembali ke atas</a></div>
-
-<!-- ═══════════ 9. ALUR KERJA ═══════════ -->
-
-<a id="alur"></a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B14,50:6366F1,100:0B0B14&height=2&section=header" width="100%" alt="" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="32" alt="" /> Alur Kerja Saya
+## 🔁 GAME LOOP (ALUR KERJA)
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#312E81','primaryTextColor':'#E0E7FF','primaryBorderColor':'#6366F1','lineColor':'#818CF8','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#2B0B4F','primaryTextColor':'#05D9E8','primaryBorderColor':'#FF2A6D','lineColor':'#F9C80E','fontFamily':'monospace'}}}%%
 flowchart LR
-    A[Memahami<br/>masalah] --> B[Riset &<br/>rencana]
-    B --> C[Desain di<br/>Figma]
-    C --> D[Implementasi<br/>kode]
-    D --> E[Uji &<br/>perbaiki]
-    E --> F[Rilis &<br/>evaluasi]
-    F -.umpan balik.-> A
+    A[1 MEMAHAMI<br/>MASALAH] --> B[2 RISET &<br/>RENCANA]
+    B --> C[3 DESAIN<br/>FIGMA]
+    C --> D[4 IMPLEMENTASI<br/>KODE]
+    D --> E[5 UJI &<br/>PERBAIKI]
+    E --> F[6 RILIS &<br/>EVALUASI]
+    F -.NEW GAME+.-> A
 ```
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#312E81','primaryTextColor':'#E0E7FF','primaryBorderColor':'#6366F1','lineColor':'#818CF8','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#2B0B4F','primaryTextColor':'#05D9E8','primaryBorderColor':'#FF2A6D','lineColor':'#F9C80E','actorBkg':'#2B0B4F','actorTextColor':'#05D9E8','actorBorder':'#FF2A6D','signalColor':'#F9C80E','signalTextColor':'#05D9E8','fontFamily':'monospace'}}}%%
 sequenceDiagram
     autonumber
-    participant K as Klien / Pengguna
-    participant F as Fiha
-    participant G as Git & GitHub
-    K->>F: Ceritakan masalah dan tujuan
-    F->>K: Usulan solusi + desain Figma
-    K-->>F: Setuju / beri masukan
-    loop Setiap fitur
-        F->>G: Commit kecil dan sering
-        F->>K: Demo singkat
+    participant K as KLIEN
+    participant F as FIHA
+    participant G as GIT
+    K->>F: ceritakan masalah dan tujuan
+    F->>K: usulan solusi + desain Figma
+    K-->>F: setuju / beri masukan
+    loop setiap fitur
+        F->>G: commit kecil dan sering
+        F->>K: demo singkat
     end
-    F->>K: Rilis dan evaluasi
+    F->>K: rilis dan evaluasi
 ```
 
 <details>
-<summary><b>▸ Detail tiap tahap</b></summary>
+<summary><b>▶ DETAIL TIAP TAHAP</b></summary>
 
 <br/>
 
-| Tahap | Apa yang terjadi | Hasilnya |
+| Tahap | Yang terjadi | Hasil |
 | :--- | :--- | :--- |
-| **1. Memahami masalah** | Siapa pengguna, apa tujuannya, apa batasannya | Daftar kebutuhan jelas |
-| **2. Riset dan rencana** | Memilih teknologi, memecah pekerjaan jadi tugas kecil | Rencana dan urutan kerja |
-| **3. Desain** | Wireframe, alur halaman, warna, tipografi di Figma | Desain yang bisa disetujui sebelum coding |
-| **4. Implementasi** | Kode per fitur, commit kecil dan sering | Fitur yang berjalan |
-| **5. Uji dan perbaiki** | Coba di berbagai perangkat, rapikan bug dan performa | Produk yang stabil |
-| **6. Rilis dan evaluasi** | Meluncurkan, mengumpulkan masukan, memperbaiki | Siklus perbaikan berikutnya |
+| **1. Memahami masalah** | Siapa pengguna, apa tujuan, apa batasan | Daftar kebutuhan jelas |
+| **2. Riset dan rencana** | Pilih teknologi, pecah jadi tugas kecil | Rencana dan urutan kerja |
+| **3. Desain** | Wireframe, alur, warna, tipografi di Figma | Desain disetujui sebelum coding |
+| **4. Implementasi** | Kode per fitur, commit kecil dan sering | Fitur berjalan |
+| **5. Uji dan perbaiki** | Coba di banyak perangkat, rapikan bug dan performa | Produk stabil |
+| **6. Rilis dan evaluasi** | Luncurkan, kumpulkan masukan, perbaiki | Siklus berikutnya |
 
 </details>
 
-<div align="right"><a href="#top">⬆ kembali ke atas</a></div>
+<div align="right"><a href="#top">▲ BACK TO TITLE</a></div>
 
-<!-- ═══════════ 10. STATISTIK ═══════════ -->
+<!-- ═══════════ HI-SCORE ═══════════ -->
 
-<a id="statistik"></a>
+<a id="score"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B14,50:6366F1,100:0B0B14&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:7B2FF7,100:05D9E8&height=4&section=header" width="100%" alt="" />
 
-## 📊 Statistik GitHub
+## 🏆 HI-SCORE
 
 <div align="center">
 
-<img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api?username=F1H444&show_icons=true&hide_border=true&bg_color=0B0B14&title_color=A5B4FC&icon_color=6366F1&text_color=C7D2FE&border_radius=16&count_private=true&include_all_commits=true&rank_icon=github"
-  alt="Statistik GitHub"
-/>
-<img
-  height="175"
-  src="https://streak-stats.demolab.com?user=F1H444&hide_border=true&background=0B0B14&ring=6366F1&fire=818CF8&currStreakNum=C7D2FE&currStreakLabel=A5B4FC&sideNums=C7D2FE&sideLabels=818CF8&dates=6B7280&border_radius=16"
-  alt="Streak kontribusi"
-/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=F1H444&show_icons=true&bg_color=0D0221&title_color=FF2A6D&icon_color=F9C80E&text_color=05D9E8&border_color=7B2FF7&border_radius=0&count_private=true&include_all_commits=true&rank_icon=github" alt="Statistik GitHub" />
+<img height="175" src="https://streak-stats.demolab.com?user=F1H444&background=0D0221&border=7B2FF7&ring=FF2A6D&fire=F9C80E&currStreakNum=05D9E8&currStreakLabel=F9C80E&sideNums=05D9E8&sideLabels=FF2A6D&dates=7B2FF7&border_radius=0" alt="Streak kontribusi" />
 
 <br/>
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1H444&layout=donut&hide_border=true&bg_color=0B0B14&title_color=A5B4FC&text_color=C7D2FE&border_radius=16&langs_count=8"
-  alt="Bahasa yang paling sering dipakai"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1H444&layout=donut&bg_color=0D0221&title_color=FF2A6D&text_color=05D9E8&border_color=7B2FF7&border_radius=0&langs_count=8" alt="Bahasa terbanyak" />
 
 <br/><br/>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=F1H444&bg_color=0B0B14&color=A5B4FC&line=6366F1&point=C7D2FE&area=true&area_color=6366F1&hide_border=true"
-  width="95%"
-  alt="Grafik aktivitas kontribusi"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=F1H444&bg_color=0D0221&color=FF2A6D&line=05D9E8&point=F9C80E&area=true&area_color=7B2FF7&hide_border=true" width="95%" alt="Grafik aktivitas" />
 
 <br/><br/>
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=F1H444&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&title=Stars,Commits,Followers,Repositories,PullRequest,Issues,Experience"
-  alt="Trofi GitHub"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=F1H444&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&title=Stars,Commits,Followers,Repositories,PullRequest,Issues,Experience" alt="Trofi" />
 
 </div>
 
 <!--
   ═══ SNAKE (OPSIONAL) ═══
-  Aktifkan dengan 3 langkah:
-  1. Tambahkan file .github/workflows/snake.yml (disediakan terpisah).
-  2. Buka tab Actions lalu jalankan workflow "Generate Snake" sekali.
-  3. Hapus tanda komentar di sekitar blok di bawah ini.
+  1. Simpan snake.yml ke .github/workflows/snake.yml
+  2. Jalankan workflow "Generate Snake" sekali dari tab Actions
+  3. Hapus tanda komentar di sekitar blok ini
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/F1H444/F1H444/output/github-contribution-grid-snake-dark.svg"
-    width="95%"
-    alt="Ular memakan grafik kontribusi"
-  />
+  <img src="https://raw.githubusercontent.com/F1H444/F1H444/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake" />
 </div>
 -->
 
 <details>
-<summary><b>▸ Cara membaca statistik ini</b></summary>
+<summary><b>▶ CARA MEMBACA SKOR</b></summary>
 
 <br/>
 
 - **Kartu statistik** merangkum bintang, commit, pull request, issue, dan kontribusi.
-- **Streak** menunjukkan hari berturut-turut ada kontribusi. Konsistensi itu kebiasaan baik, meski bukan tujuan utama.
-- **Bahasa terbanyak** dihitung dari ukuran kode di repositori publik, bukan tanda bahasa lain tidak dikuasai.
-- **Grafik aktivitas** memperlihatkan naik turunnya kontribusi dari waktu ke waktu.
+- **Streak** menghitung hari berturut-turut ada kontribusi. Konsistensi itu kebiasaan baik.
+- **Bahasa terbanyak** dihitung dari ukuran kode di repositori publik, bukan berarti bahasa lain tidak dikuasai.
+- **Grafik aktivitas** memperlihatkan naik turunnya kontribusi.
 
-Statistik hanya gambaran kasar. Kualitas kode dan dampak proyek tidak bisa diukur dari angka. Layanan gambar ini gratis dan kadang lambat; kalau sesekali kosong, itu karena servernya sibuk.
+Layanan gambar ini gratis dan kadang lambat. Kalau sesekali kosong, itu karena servernya sibuk.
 
 </details>
 
-<div align="right"><a href="#top">⬆ kembali ke atas</a></div>
+<details>
+<summary><b>▶ ??? (RAHASIA)</b></summary>
 
-<!-- ═══════════ 11. PROYEK UNGGULAN (OPSIONAL) ═══════════
-     Ganti NAMA-REPO lalu hapus tanda komentar.
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B14,50:6366F1,100:0B0B14&height=2&section=header" width="100%" alt="" />
+```text
+ ↑ ↑ ↓ ↓ ← → ← → B A   START
 
-## 📌 Proyek Unggulan
+ +30 LIVES UNLOCKED
+ Terima kasih sudah membaca sampai sini. Kopi pertama saya traktir.
+```
+
+</details>
+
+<div align="right"><a href="#top">▲ BACK TO TITLE</a></div>
+
+<!--
+  ═══ PROYEK UNGGULAN (OPSIONAL) ═══
+  Ganti NAMA-REPO lalu hapus tanda komentar.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:7B2FF7,100:05D9E8&height=4&section=header" width="100%" alt="" />
+
+## 💾 SAVE FILES (PROYEK UNGGULAN)
 
 <div align="center">
-
-<a href="https://github.com/F1H444/NAMA-REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=F1H444&repo=NAMA-REPO-1&hide_border=true&bg_color=0B0B14&title_color=A5B4FC&icon_color=6366F1&text_color=C7D2FE&border_radius=16" alt="Proyek 1" />
-</a>
-<a href="https://github.com/F1H444/NAMA-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=F1H444&repo=NAMA-REPO-2&hide_border=true&bg_color=0B0B14&title_color=A5B4FC&icon_color=6366F1&text_color=C7D2FE&border_radius=16" alt="Proyek 2" />
-</a>
-
+<a href="https://github.com/F1H444/NAMA-REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=F1H444&repo=NAMA-REPO-1&bg_color=0D0221&title_color=FF2A6D&icon_color=F9C80E&text_color=05D9E8&border_color=7B2FF7&border_radius=0" alt="Proyek 1" /></a>
+<a href="https://github.com/F1H444/NAMA-REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=F1H444&repo=NAMA-REPO-2&bg_color=0D0221&title_color=FF2A6D&icon_color=F9C80E&text_color=05D9E8&border_color=7B2FF7&border_radius=0" alt="Proyek 2" /></a>
 </div>
 -->
 
-<!-- ═══════════ 12. FAQ ═══════════ -->
+<!-- ═══════════ CHEAT CODES / FAQ ═══════════ -->
 
-<a id="faq"></a>
+<a id="cheat"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B14,50:6366F1,100:0B0B14&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:7B2FF7,100:05D9E8&height=4&section=header" width="100%" alt="" />
 
-## ❓ Pertanyaan yang Sering Muncul
+## 🎮 CHEAT CODES (FAQ)
 
 <details>
-<summary><b>Apakah kamu terbuka untuk kolaborasi?</b></summary>
+<summary><b>▶ Terbuka untuk kolaborasi?</b></summary>
 
 <br/>
 
-Ya, untuk proyek web, game, maupun open source. Cara terbaik: buka issue atau diskusi di salah satu repositori saya, atau hubungi lewat situs ProgMan.
+Ya, untuk proyek web, game, maupun open source. Buka issue atau diskusi di salah satu repositori saya, atau hubungi lewat situs ProgMan.
 
 </details>
 
 <details>
-<summary><b>Teknologi apa yang sebaiknya dipelajari pertama kali?</b></summary>
+<summary><b>▶ Teknologi apa yang dipelajari pertama kali?</b></summary>
 
 <br/>
 
-Mulai dari dasar: HTML, CSS, dan JavaScript. Lalu pilih satu framework (misalnya React) dan bangun satu proyek kecil sampai selesai. Jangan melompat antar teknologi sebelum satu proyek rampung.
+Mulai dari HTML, CSS, dan JavaScript. Lalu pilih satu framework (misalnya React) dan bangun satu proyek kecil sampai selesai sebelum pindah ke teknologi lain.
 
 </details>
 
 <details>
-<summary><b>Berapa lama membuat website lewat ProgMan?</b></summary>
+<summary><b>▶ Berapa lama membuat website lewat ProgMan?</b></summary>
 
 <br/>
 
-Tergantung ruang lingkupnya. Landing page sederhana jauh lebih cepat daripada web app dengan login dan dashboard. Setelah kebutuhan jelas, estimasi waktu bisa dibahas bersama.
+Tergantung ruang lingkupnya. Landing page jauh lebih cepat daripada web app dengan login dan dashboard. Setelah kebutuhan jelas, estimasi bisa dibahas bersama.
 
 </details>
 
 <details>
-<summary><b>Kenapa memakai Laravel dan Next.js sekaligus?</b></summary>
+<summary><b>▶ Kenapa Laravel dan Next.js sekaligus?</b></summary>
 
 <br/>
 
@@ -773,56 +560,51 @@ Kekuatannya berbeda. Laravel nyaman untuk backend yang butuh struktur, autentika
 </details>
 
 <details>
-<summary><b>Apakah kamu menerima proyek game?</b></summary>
+<summary><b>▶ Menerima proyek game?</b></summary>
 
 <br/>
 
-Game masih saya dalami lewat Godot Engine, jadi saat ini lebih sering sebagai proyek pribadi dan eksperimen. Kalau ada ide menarik, silakan ajak ngobrol.
+Game masih saya dalami lewat Godot, jadi saat ini lebih sering sebagai proyek pribadi dan eksperimen. Kalau ada ide menarik, silakan ajak ngobrol.
 
 </details>
 
 <details>
-<summary><b>Bagaimana melaporkan bug di proyek saya?</b></summary>
+<summary><b>▶ Cara melaporkan bug?</b></summary>
 
 <br/>
 
-Buka tab **Issues** di repositori terkait. Sertakan langkah mengulang masalah, hasil yang diharapkan, dan yang sebenarnya terjadi. Tangkapan layar sangat membantu.
+Buka tab **Issues** di repositori terkait. Sertakan langkah mengulang, hasil yang diharapkan, dan yang sebenarnya terjadi. Tangkapan layar sangat membantu.
 
 </details>
 
-<div align="right"><a href="#top">⬆ kembali ke atas</a></div>
+<div align="right"><a href="#top">▲ BACK TO TITLE</a></div>
 
-<!-- ═══════════ 13. KONTAK ═══════════ -->
+<!-- ═══════════ CONTINUE ═══════════ -->
 
-<a id="kontak"></a>
+<a id="continue"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B14,50:6366F1,100:0B0B14&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:7B2FF7,100:05D9E8&height=4&section=header" width="100%" alt="" />
 
-## 🤝 Mari Terhubung
-
-Punya ide, pertanyaan, atau ingin bekerja sama? Pintu saya terbuka.
+## 💿 CONTINUE?
 
 <div align="center">
 
-<a href="https://github.com/F1H444">
-  <img src="https://img.shields.io/badge/GitHub-F1H444-312E81?style=for-the-badge&logo=github&logoColor=A5B4FC&labelColor=0B0B14" alt="GitHub" />
-</a>
-<a href="https://progman.is-a.dev/">
-  <img src="https://img.shields.io/badge/ProgMan-Website-312E81?style=for-the-badge&logo=googlechrome&logoColor=A5B4FC&labelColor=0B0B14" alt="ProgMan" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1000&pause=300&color=FF2A6D&center=true&vCenter=true&width=500&height=50&repeat=true&lines=CONTINUE%3F+9;CONTINUE%3F+8;CONTINUE%3F+7;CONTINUE%3F+6;CONTINUE%3F+5;CONTINUE%3F+4;CONTINUE%3F+3;CONTINUE%3F+2;CONTINUE%3F+1;INSERT+COIN" alt="Hitung mundur continue" />
+
+<br/>
+
+<a href="https://github.com/F1H444"><img src="https://img.shields.io/badge/GitHub-F1H444-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221" alt="GitHub" /></a>
+<a href="https://progman.is-a.dev/"><img src="https://img.shields.io/badge/ProgMan-WEBSITE-FF2A6D?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D0221" alt="ProgMan" /></a>
 
 <br/><br/>
 
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0B0B14&text_color=C7D2FE&border_color=312E81&quote_color=A5B4FC"
-  alt="Kutipan acak"
-/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D0221&text_color=05D9E8&border_color=7B2FF7&quote_color=F9C80E" alt="Kutipan acak" />
 
 <br/><br/>
 
-<sub>Kalau Anda menyukai proyek saya, beri bintang pada repositorinya. Itu sangat berarti ⭐</sub>
+<sub>Kalau Anda menyukai proyek saya, beri bintang pada repositorinya ⭐</sub>
 
-<br/><br/>
+<br/>
 
 <i>"Code is like humor. When you have to explain it, it's bad."</i>
 
@@ -830,10 +612,6 @@ Punya ide, pertanyaan, atau ingin bekerja sama? Pintu saya terbuka.
 
 <sub>Dibuat dengan kopi dan rasa ingin tahu oleh <b>Fiha Aridhoi</b></sub>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B14,40:312E81,100:6366F1&height=170&section=footer&text=Thanks%20for%20visiting&fontSize=28&fontColor=E0E7FF&fontAlignY=68&animation=twinkling"
-  width="100%"
-  alt="Terima kasih sudah berkunjung"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9C80E,30:FF2A6D,65:7B2FF7,100:0D0221&height=170&section=footer&text=THANKS%20FOR%20PLAYING&fontSize=28&fontColor=FFFFFF&fontAlignY=68&animation=twinkling" width="100%" alt="Terima kasih sudah bermain" />
 
 </div>
